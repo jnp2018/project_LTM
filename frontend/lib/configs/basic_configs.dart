@@ -1,0 +1,1 @@
+const String boxUserSettingName = "box_user_setting_name";
